@@ -53,8 +53,8 @@ function draw() {
         ellipse(-3, 0, 15, 50);
 
         push();
-        fill("black");
-        ellipse(-5, 0, 5, 100);
+      //  fill("black");
+       // ellipse(-5, 0, 5, 100);
         pop();
       }
     }
